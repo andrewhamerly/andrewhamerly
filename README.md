@@ -4,7 +4,7 @@
 ### :crescent_moon: At night, I attend the Case Western Reserve University full-stack developer program.
 
 🌱 I’m currently learning the MERN stack. </br>
-:man_technologist: I’m looking to collaborate on small independent open-source projects. Tell me about your project by reaching out with the email below. </br>
+:man_technologist: I’m looking to collaborate on small independent open-source projects. Tell me about your project by emailing me. </br>
 🤔 I’m seeking help finding my next web app idea. </br>
 💬 Ask me how I can help you grow your idea into a startup! </br>
 📫 How to reach me: contact@andrewhamerly.com
