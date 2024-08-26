@@ -1,11 +1,11 @@
 ## Hi! 👋 I'm Andrew, welcome to my Github! :smile:
 
-### :sunny: During the day, I build & maintain websites for entrepreneurs. 
-### :crescent_moon: At night, I attend the Case Western Reserve University full-stack developer program.
+### :sunny: During the day, I build & maintain WordPress websites for entrepreneurs.
+### :crescent_moon: At night, I learn about the latest in full-stack development and deployment.
 
-🌱 I’m currently learning the MERN stack. </br>
-:man_technologist: I’m looking to collaborate on small independent open-source projects. Tell me about your project by emailing me. </br>
-🤔 I’m seeking help finding my next web app idea. </br>
+🌱 I’m currently learning TypeScript and AWS Cloud. </br>
+:man_technologist: I’m looking to collaborate on independent open-source projects. Tell me about your project by emailing me. </br>
+🤔 I’m seeking help finding my next web app idea, what else does the world need? </br>
 💬 Ask me how I can help you grow your idea into a startup! </br>
 📫 How to reach me: contact@andrewhamerly.com
 
